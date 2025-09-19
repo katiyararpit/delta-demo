@@ -1,8 +1,8 @@
 # delta-demo
 This is a Demo for git and github class.
 
-# Teacher 
-arpit katiyar
+# Teacher
+Arpit Katiyar
 
 # Student
 Delta Student
